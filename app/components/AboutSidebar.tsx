@@ -110,7 +110,7 @@ function AboutSidebar() {
                 <i className="fa-solid fa-envelope text-[#ff0336]"></i>
               </span>
               <span>
-                <p>gymate@gymail.com</p>
+                <p>Zero-Degree@gymail.com</p>
               </span>
             </div>
           </div>

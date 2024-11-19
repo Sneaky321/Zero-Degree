@@ -49,7 +49,7 @@ function Footer() {
             </Link>
           </div>
           <div>
-            <p>Privacy Policy | © {new Date().getFullYear()} Gymate</p>
+            <p>Privacy Policy | © {new Date().getFullYear()} Zero-Degree</p>
           </div>
         </div>
         <div className="flex flex-col lg:flex-row gap-16 lg:gap-24">

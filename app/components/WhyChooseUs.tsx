@@ -47,7 +47,7 @@ function WhyChooseUs() {
             We Can Give A Shape Of Your Body Here!
           </h1>
           <p className="text-[#b4b4b4]">
-            At <strong>Gymate</strong>, we are dedicated to helping you achieve
+            At <strong>Zero-Degree</strong>, we are dedicated to helping you achieve
             the body of your dreams. Our expert trainers and nutritionists will
             work with you to create a personalized fitness and nutrition plan
             that helps you reach your specific goals.

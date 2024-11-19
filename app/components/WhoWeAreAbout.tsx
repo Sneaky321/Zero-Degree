@@ -22,7 +22,7 @@ function WhoWeAreAbout() {
               We Will Give You Strength and Health
             </h1>
             <p>
-              At Gymate, we are dedicated to helping you achieve the body of
+              At Zero-Degree, we are dedicated to helping you achieve the body of
               your dreams. Our expert trainers and nutritionists will work with
               you to create a personalized fitness and nutrition plan that helps
               you reach your specific goals.
